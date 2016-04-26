@@ -1,0 +1,28 @@
+name: radugidei
+favicon: null
+layout_spectrum: 0.20103744114749134
+typography_spectrum: 0.8117980123497546
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4998498298227787
+  lightness: 0.4721709897276014
+  saturation: 0.3259935772512108
+  rhythmicContrast: 0.7074166480451822
+purpose: []
