@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[radugidei]]></title>
+        <description><![CDATA[radugidei]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 23:02:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[From DevOps to BimOps]]></title>
+            <description><![CDATA[<article><h1>From DevOps to BimOps</h1><p>The DevOps movement started in roughly 2008 and was designed to address the gap between the development of software (dev) and the operation/use of said software (ops).</p></article>]]></description>
+            <link>undefinedfrom-devops-to-bimops/index.html</link>
+            <guid isPermaLink="false">cbcdfae5-c8aa-4f74-bacd-d618cb52e39d</guid>
+            <pubDate>Tue, 26 Apr 2016 23:01:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
